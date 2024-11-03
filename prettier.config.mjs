@@ -1,0 +1,20 @@
+export default [
+  {
+    arrowParens: "always",
+    bracketSameLine: false,
+    bracketSpacing: true,
+    embeddedLanguageFormatting: "auto",
+    endOfLine: "lf",
+    htmlWhitespaceSensitivity: "css",
+    jsxBracketSameLine: false,
+    jsxSingleQuote: false,
+    printWidth: 80,
+    proseWrap: "preserve",
+    quoteProps: "as-needed",
+    semi: true,
+    singleQuote: false,
+    tabWidth: 2,
+    trailingComma: "all",
+    useTabs: false,
+  },
+];
